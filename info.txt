@@ -5,3 +5,4 @@ Architecture
 git,Jenkins,Docker,Kubernetes.
 4 Year experience
 10 LPA
+hike 30%
